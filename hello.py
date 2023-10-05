@@ -1,0 +1,6 @@
+print ("What is your name? ")
+name = input()
+print ("Hello", name)
+print ("Where are you from?")
+where = input()
+print ("Hello", name, "from", where)
